@@ -40,6 +40,7 @@ for (let i = 0; i < biciclette.length; i++) {
 
 }
 // stampo la bici più leggera
+console.log(`La bici più leggera è ${biciLeggera.nome} e pesa ${biciLeggera.peso} kg`);
 
 
 
