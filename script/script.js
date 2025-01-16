@@ -33,14 +33,18 @@ let biciLeggera = biciclette[0];
 // creo un ciclo for per scorrere l'array biciclette 
 for (let i = 0; i < biciclette.length; i++) {
     // se il peso della bici corrente è minore del peso della bici più leggera
-    
-
-    // assegno alla variabile biciLeggera la bici corrente
-
-
+    if (biciclette[i].peso < biciLeggera.peso) {
+        // assegno alla variabile biciLeggera la bici corrente
+        biciLeggera = biciclette[i];
+    }
 
 }
 // stampo la bici più leggera
+
+
+
+
+
 
 
 
