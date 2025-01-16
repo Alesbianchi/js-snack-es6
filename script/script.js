@@ -102,12 +102,17 @@ const nuovoArray = [];
 // creo un ciclo for per scorrere l'array squadreCalcio
 for (let i = 0; i < squadreCalcio.length; i++) {
     // creo una variabile per estrapolare i valori di nome e falli subiti
-    
+    const { nome, fallisubiti, puntifatti } = squadreCalcio[i];
     // creo un nuovo array con i valori di nome e falli subiti
-    
+    nuovoArray.push({ nome, fallisubiti, puntifatti  });
     
 }
 
 // stampo il risultato
+console.log(nuovoArray);
+
+
+
+
 
 
