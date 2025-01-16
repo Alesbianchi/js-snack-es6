@@ -60,31 +60,36 @@
 const squadreCalcio = [
     {
         'nome': 'Milan',
-        'puntifatti': 0,
-        'fallisubiti': 0
+        'punti fatti': 0,
+        'falli subiti': 0
     },
     {
         'nome': 'Inter',
-        'puntifatti': 0,
-        'fallisubiti': 0
+        'punti fatti': 0,
+        'falli subiti': 0
     },
     {
         'nome': 'Juventus',
-        'puntifatti': 0,
-        'fallisubiti': 0
+        'punti fatti': 0,
+        'falli subiti': 0
     },
     {
         'nome': 'Atalanta',
-        'puntifatti': 0,
-        'fallisubiti': 0
+        'punti fatti': 0,
+        'falli subiti': 0
     },
     {
         'nome': 'Roma',
-        'puntifatti': 0,
-        'fallisubiti': 0
+        'punti fatti': 0,
+        'falli subiti': 0
     }   
 
 ];
+// console.log(squadreCalcio);
+
+// creo ciclo for per generare numeri random per i punti fatti e i falli subiti
+
+// genero numeri random per i punti fatti e i falli subiti
 
 
-
+//stampo il risultato
