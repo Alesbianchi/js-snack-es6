@@ -90,9 +90,19 @@ const squadreCalcio = [
 // creo ciclo for per generare numeri random per i punti fatti e i falli subiti
 for (let i = 0; i < squadreCalcio.length; i++) {
     // genero numeri random per i punti fatti e i falli subiti
-    
+    squadreCalcio[i].puntifatti = Math.floor(Math.random() * 100);
+    squadreCalcio[i].fallisubiti = Math.floor(Math.random() * 100);
 }
 //stampo il risultato
+// console.log(squadreCalcio);
 
+// creo un nuovo array con i nomi e i falli subiti
+const nuovoArray = [];
 
+// creo un ciclo for per scorrere l'array squadreCalcio
 
+// creo una variabile per estrapolare i valori di nome e falli subiti
+
+// creo un nuovo array con i valori di nome e falli subiti
+
+// stampo il risultato
