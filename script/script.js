@@ -88,8 +88,11 @@ const squadreCalcio = [
 // console.log(squadreCalcio);
 
 // creo ciclo for per generare numeri random per i punti fatti e i falli subiti
-
-// genero numeri random per i punti fatti e i falli subiti
-
-
+for (let i = 0; i < squadreCalcio.length; i++) {
+    // genero numeri random per i punti fatti e i falli subiti
+    
+}
 //stampo il risultato
+
+
+
