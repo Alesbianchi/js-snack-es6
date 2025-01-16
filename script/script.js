@@ -25,3 +25,19 @@ const biciclette = [
 ];
 console.table(biciclette);
 
+
+// creo ciclo for
+
+// creo variabile e la inizializzo con il primo elemento dell'array biciclette
+let biciLeggera = biciclette[0];
+// creo un ciclo for per scorrere l'array biciclette
+
+
+// se il peso della bici corrente è minore del peso della bici più leggera
+
+
+// assegno alla variabile biciLeggera la bici corrente
+
+
+
+// stampo la bici più leggera
